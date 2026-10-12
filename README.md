@@ -2,7 +2,7 @@
 
 Aspiring to create technologies that enable people and businesses to grow!
 
-- :mortar_board: Studying Computer Science @ the University of Waterloo
+- :mortar_board: Studied Computer Science @ the University of Waterloo
 - 🌱 Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence
 - ⚡ Fun fact: Co-founded a virtual restaurant amidst the pandemic to capitalize on the growing demand for food delivery in the city
 - 🤔 Learn more about me at [mahadkhan.me](https://mahadkhan.me/)
